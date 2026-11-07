@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <rect width="128" height="128" rx="26" fill="#0E1420"/>
+  <rect x="7" y="7" width="114" height="114" rx="20" stroke="#B6925B" stroke-width="2" stroke-opacity="0.55"/>
+  <!-- Architectural LawLab Monogram (Double L + Balance Pillar) -->
+  <path d="M36 32H48V84H74V95H36V32Z" fill="#F6F3EC"/>
+  <path d="M58 32H70V70H94V81H58V32Z" fill="#C5A36E"/>
+  <rect x="36" y="24" width="58" height="3" rx="1.5" fill="#C5A36E" fill-opacity="0.85"/>
+</svg>
